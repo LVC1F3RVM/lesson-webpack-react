@@ -1,4 +1,4 @@
-import name from "./functions/name"
+import name from "./functions/name";
 
 const myName = name("Oleg");
 
